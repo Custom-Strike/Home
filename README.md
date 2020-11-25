@@ -1,5 +1,4 @@
 # Custom-Strike
-#### One place for all custom CS:GO content
 
 ---
 
