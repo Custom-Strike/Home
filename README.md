@@ -1,6 +1,6 @@
 # Custom-Strike
-### [Discord](https://discord.gg/6AbkcN8)
-<br>
+### *One place for all custom CS:GO content.*
+#### [Join our Discord](https://discord.gg/6AbkcN8)
 <br>
 
 ---
@@ -12,6 +12,7 @@
 * In the selected repository, click `Code` > `Download as Zip`
 * Unzip the file and place `p_folder` or `m_package` in MIGI addons folder
 * Click generate MIGI and run CS:GO (through MIGI)
+<br>
 
 ---
 
