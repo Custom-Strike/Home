@@ -1,5 +1,5 @@
 # Custom-Strike
-### *One place for all custom CS:GO content*
+### *One place for all custom CS:GO content.*
 #### [Join our Discord](https://discord.gg/6AbkcN8)
 <br>
 
