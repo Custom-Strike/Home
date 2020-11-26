@@ -1,4 +1,7 @@
 # Custom-Strike
+### [Discord](https://discord.gg/6AbkcN8)
+<br>
+<br>
 
 ---
 
@@ -19,3 +22,11 @@
 
 ***Will I get VAC Banned for using addons?***
 > No, as long as you don't use cheats like sv_pure bypassers and skin changers.
+
+***I found a bug. Where do I report it?***
+> You can open an issue **in addon repository**. 
+
+***I need more help with modding.***
+> You can join our [Discord](https://discord.gg/6AbkcN8) and ask all questions there.
+---
+
