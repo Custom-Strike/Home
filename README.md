@@ -29,5 +29,9 @@
 
 ***I need more help with modding.***
 > You can join our [Discord](https://discord.gg/6AbkcN8) and ask all questions there.
+<br>
+
 ---
 
+This non-profit project is run and managed by [A R E Z](https://github.com/firexstudio). 
+You can help by following me on [YouTube](https://youtube.com/TeamOlympus) and [Twitter](https://twitter.com/FirexStudio).
