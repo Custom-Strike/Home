@@ -33,5 +33,5 @@
 
 ---
 
-This non-profit project is run and managed by [A R E Z](https://github.com/firexstudio). 
+This project is run and managed by [A R E Z](https://github.com/firexstudio). 
 You can help by following me on [YouTube](https://youtube.com/TeamOlympus) and [Twitter](https://twitter.com/FirexStudio).
