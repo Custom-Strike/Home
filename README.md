@@ -1,6 +1,7 @@
-# Custom-Strike  | [Discord](https://discord.gg/6AbkcN8)
-### *One place for all custom CS:GO content*
-#### [Addons](https://github.com/Custom-Strike)  |  [Modding Wiki](https://github.com/Custom-Strike/Home/wiki)
+# Custom-Strike
+*One place for all custom CS:GO content*
+
+[All Addons](https://github.com/Custom-Strike)  |  [Modding Wiki](https://github.com/Custom-Strike/Home/wiki)  |  [Custom-Strike Discord](https://discord.gg/6AbkcN8)
 <br>
 
 ---
